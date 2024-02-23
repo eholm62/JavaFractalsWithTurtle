@@ -1,5 +1,6 @@
 package drawing;
 
+import stdlib.*;
 import java.awt.Color;
 
 public class Canvas
@@ -39,12 +40,12 @@ public class Canvas
 		draw.clear(color);
 	}
 
-	public void setPenColor(Color color)
+	protected void setPenColor(Color color)
 	{
 		draw.setPenColor(color);
 	}
 
-	public void setPenRadius(double penRadius)
+	protected void setPenRadius(double penRadius)
 	{
 		draw.setPenRadius(penRadius);
 	}

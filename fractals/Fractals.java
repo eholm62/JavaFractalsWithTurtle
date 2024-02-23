@@ -133,6 +133,7 @@ class Fractals
 		Canvas canvas = new Canvas(10000000);
 		canvas.setXscale(-1.0, 1.0);
 		canvas.setYscale(-1.0, 1.0);
+		canvas.setPenRadius(0.05);
 		canvas.clear();
 
 		Turtle oogway = new Turtle(canvas);
