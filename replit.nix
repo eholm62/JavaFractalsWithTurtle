@@ -1,6 +1,6 @@
 { pkgs }: {
   deps = [
-    pkgs.temurin-bin-21
+    pkgs.zulu17
     pkgs.vim-full
   ];
 }

@@ -1,6 +1,0 @@
-package stdlib;
-
-class Draw
-{
-
-}

@@ -1,6 +1,5 @@
 package drawing;
 
-import stdlib.Draw;
 import java.awt.Color;
 
 public class Canvas
