@@ -136,7 +136,7 @@ class Fractals
 		canvas.clear();
 
 		Turtle oogway = new Turtle(canvas);
-		oogway.setPenRadius(0.002);
+		oogway.setPenRadius(0.001);
 
 		// triangle(oogway, new double[] { 0.0, 0.0 }, 0.25);
 		// oogway.pause(1);
