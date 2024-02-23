@@ -1,6 +1,9 @@
+package drawing;
+
+import stdlib.Draw;
 import java.awt.Color;
 
-class Canvas
+public class Canvas
 {
 	private final int tracerNanoSeconds;
 	private final Draw draw;

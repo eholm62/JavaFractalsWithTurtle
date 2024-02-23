@@ -1,6 +1,8 @@
+package drawing;
+
 import java.awt.Color;
 
-class Turtle
+public class Turtle
 {
 	double x;
 	double y;

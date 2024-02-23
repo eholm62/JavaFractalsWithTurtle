@@ -75,7 +75,7 @@ export my_bash_config="$base_dir/my_bash_config.sh"
 
 
 # classpath environment var
-export CLASSPATH=".:$base_dir/StdLib:$base_dir/MyLibs"
+export CLASSPATH=".:$base_dir/stdlib:$base_dir/MyLibs"
 
 # aliases
 alias jdb="jdb -sourcepath $CLASSPATH"
